@@ -1,0 +1,25 @@
+{
+  "name": "webpack-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "webpack-cli": "^3.3.6",
+    "webpack": "^4.36.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarek4116/Webpack-basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarek4116/Webpack-basics/issues"
+  },
+  "homepage": "https://github.com/sarek4116/Webpack-basics#readme"
+}
